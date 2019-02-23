@@ -77,15 +77,3 @@
     }
   ]
 }
-Example
-The ng-repeat directive is perfect for looping through an array:
-
-<div ng-app="myApp" ng-controller="customersCtrl"> 
-
-<ul>
-  <li ng-repeat="x in myData">
-    {{ x.Name + ', ' + x.Country }}
-  </li>
-</ul>
-
-</div>
