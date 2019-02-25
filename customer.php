@@ -1,5 +1,5 @@
 {
-  "name": [
+  "names": [
     {
       "Name": "Alfreds Futterkiste",
       "City": "Berlin",
